@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f84c4cd7cd44f4998479d97b66f668, type: 3}
+  m_Name: POInfoTool
+  m_EditorClassIdentifier: 
+  toolName: PO Info Tool
+  infoUIPrefab: {fileID: 1136717208767010, guid: 6f916c7e4c383814db5be8526d1cdc87,
+    type: 2}

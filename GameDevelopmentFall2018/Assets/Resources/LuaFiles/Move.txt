@@ -1,0 +1,5 @@
+AddV("test",0,10,0)
+AddV("test",10,0,0)
+AddV("test",-10,0,0)
+AddV("test",0,-10,0)
+Move("test", 3, 1)

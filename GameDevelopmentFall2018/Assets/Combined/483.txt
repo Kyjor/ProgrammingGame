@@ -1,0 +1,8 @@
+Added a list of tools to the inventoryUI and kept the hotbar tools to default tools 
+that everyone will have anyways. New tools can be created and added to either hotbar 
+tools or the inventory tools Scriptable objects under SO/Tools/ToolsContainer if ever 
+curious. These are added dynamically and do not need any changes inside the UI itself. 
+Created a ToolsButtonCreation.cs script that creates  the buttons and adds a listener to 
+change the tool when clicked. Also Created ToolsContainer scriptable objects to container 
+different tools that can be used for different things. current there is one for the hotbar 
+and one for the inventory. 
