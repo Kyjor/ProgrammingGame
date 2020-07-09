@@ -148,6 +148,7 @@ public class Player : MonoBehaviour
     private void scrollWheelInputHotBar()
     {
         var scrollDirection = UnityEngine.Input.GetAxis("Mouse ScrollWheel");
+        print("HI");
         if (scrollDirection > 0)
         {
             //up
